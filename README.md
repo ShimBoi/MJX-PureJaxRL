@@ -17,5 +17,3 @@ python mujoco_ppo.py --job eval
 ## Timing
 - ~15min on an RTX4090 for ~50mil env steps
 - rendering avg total time 0.258411ms
-
-[![Demo Video](https://img.shields.io/badge/▶️-Watch%20Demo-blue)](purejaxrl/purejaxrl/videos/rollout_episode_3_return_15.29.mp4?raw=true)
