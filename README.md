@@ -10,6 +10,6 @@ for eval:
 python mujoco_ppo.py --job eval
 ```
 
-## CHeckpoints/Videos
+## Checkpoints/Videos
 - checlpoints are in purejaxrl/purejaxrl/checkpoints
 - rollout videos are in purejaxrl/purejaxrl/videos
