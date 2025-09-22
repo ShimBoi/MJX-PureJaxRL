@@ -9,3 +9,7 @@ python mujoco_ppo.py --job train
 for eval:
 python mujoco_ppo.py --job eval
 ```
+
+## CHeckpoints/Videos
+- checlpoints are in purejaxrl/purejaxrl/checkpoints
+- rollout videos are in purejaxrl/purejaxrl/videos
