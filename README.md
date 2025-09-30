@@ -23,6 +23,11 @@ python mujoco_ppo.py --job eval
 - checlpoints are in purejaxrl/purejaxrl/checkpoints
 - rollout videos are in purejaxrl/purejaxrl/videos
 
+## Demo
+![Example1](videos/example1.gif)
+![Example](videos/example2.gif)
+![Example](videos/example3.gif)
+
 ## Timing
 
 [](https://github.com/ShimBoi/MJX-PureJaxRL#timing)
