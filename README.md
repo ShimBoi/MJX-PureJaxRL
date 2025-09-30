@@ -24,9 +24,9 @@ python mujoco_ppo.py --job eval
 - rollout videos are in purejaxrl/purejaxrl/videos
 
 ## Demo
-![Example1](videos/example1.gif)
-![Example](videos/example2.gif)
-![Example](videos/example3.gif)
+![Example1](purejaxrl/videos/example1.gif)
+![Example](purejaxrl/videos/example2.gif)
+![Example](purejaxrl/videos/example3.gif)
 
 ## Timing
 
